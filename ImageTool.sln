@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTool", "ImageTool\ImageTool.csproj", "{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageToolSetup", "ImageToolSetup\ImageToolSetup.vdproj", "{B3A833A8-23DA-4C65-93F6-7927F856CA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Debug|x86.ActiveCfg = Debug|x86
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Debug|x86.Build.0 = Debug|x86
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Release|x86.ActiveCfg = Release|x86
+		{C55951F0-C4D6-437B-BBF3-1A286C8F5B95}.Release|x86.Build.0 = Release|x86
+		{B3A833A8-23DA-4C65-93F6-7927F856CA3B}.Debug|Any CPU.ActiveCfg = Debug
+		{B3A833A8-23DA-4C65-93F6-7927F856CA3B}.Debug|x86.ActiveCfg = Debug
+		{B3A833A8-23DA-4C65-93F6-7927F856CA3B}.Release|Any CPU.ActiveCfg = Release
+		{B3A833A8-23DA-4C65-93F6-7927F856CA3B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333DAD53-C3D1-4BAA-BC59-35CC3ABB16EE}
+	EndGlobalSection
+EndGlobal
